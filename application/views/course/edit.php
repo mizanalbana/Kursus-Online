@@ -28,7 +28,7 @@
           </div>
 
           <button type="submit" class="btn btn-primary">Update</button>
-          <a href="<?= site_url('courses') ?>" class="btn btn-secondary">Batal</a>
+          <a href="<?= site_url('dashboard') ?>" class="btn btn-secondary">Batal</a>
         </form>
       </div>
     </div>
